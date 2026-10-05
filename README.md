@@ -106,9 +106,33 @@ The main objectives of this project are:
 - **GitHub** – Used for source code hosting and submission.
 - **npm** – Used for installing and managing Node.js dependencies.
 
+
+
+
+  ## Instructions to Run the Project
+
+### Prerequisites
+
+Before running the project, make sure the following software is installed:
+
+- Node.js
+- npm
+- Git
+- Visual Studio Code
+- A modern web browser such as Google Chrome
+
+### Step 1: Clone the GitHub Repository
+
+Open **PowerShell** or the **VS Code Terminal** and run:
+
+```bash
+git clone https://github.com/24pandeo-rbu/hotel-room-booking-system.git
+
 ---
 
-## 5. System Architecture
+
+
+### 5. System Architecture
 
 The application follows a basic full-stack architecture:
 
