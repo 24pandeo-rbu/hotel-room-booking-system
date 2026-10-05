@@ -130,8 +130,6 @@ git clone https://github.com/24pandeo-rbu/hotel-room-booking-system.git
 
 ---
 
-
-
 ### 5. System Architecture
 
 The application follows a basic full-stack architecture:
